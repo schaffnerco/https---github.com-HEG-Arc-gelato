@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1473204-9002-4433-8d8d-d995c9f097d4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/$-picto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/barmaid-ice-cream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/kcal-picto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/logo-ben-jerry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/logo-frisco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/logo-haagen-dazs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/logo-lusso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/logo-movenpick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/logo_gelato_200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/man-ice-cream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/wallets/activation-form.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/woman-ice-cream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/img/youth-ice-cream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/brands/logo-ben-jerry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/brands/logo-emmi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/brands/logo-frisco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/brands/logo-haagen-dazs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/brands/logo-lusso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/brands/logo-movenpick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/CoupeGlacee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/GlaceAlEau.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/cornet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/cremeGlacee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/magnum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/picto-cornet-rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/picto-cup-bleu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/picto-sandwich-bleu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/picto-special-brun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/picto-sucette-rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/pralinato.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/almond.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/benChocolateFudgeBrownie-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/benChocolateFudgeBrownie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/benStrawberryCheesecake-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/benStrawberryCheesecake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/bencaramelchewchew-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/bencaramelchewchew.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/benchunkymonkey-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/benchunkymonkey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/bencookiedough-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/bencookiedough.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/benfairlynuts-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/benfairlynuts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/calippolime.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/classic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/cornettocaffelatte.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/cornettocheesecake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/cornettochocolat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/cornettofraise.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/cornettovanille.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/cremissimocaramello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/cremissimocaramello_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/frozen-yogurt-baiescookie-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/frozen-yogurt-caramelamandes-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/frozen-yogurt-naturemuesli-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/haagen-belgianchocolate-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/haagen-cookiescream-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/haagen-dulcedeleche-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/haagen-macadamianutbrittle-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/haagen-strawberriescream-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/haagen-vanilla-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/haagen-vanillacaramebrownie-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/haribo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/benChocolateFudgeBrownie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/benStrawberryCheesecake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/bencaramelchewchew.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/benchunkymonkey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/bencookiedough.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/benfairlynuts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/calippolime.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/cornettocaffelatte.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/cornettocheesecake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/cornettochocolat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/cornettofraise.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/cornettovanille.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/cremissimocaramello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/cremissimocaramello_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/frozen-yogurt-baiescookie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/frozen-yogurt-caramelamandes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/frozen-yogurt-naturemuesli.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/haagen-belgianchocolate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/haagen-cookiescream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/haagen-dulcedeleche.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/haagen-macadamianutbrittle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/haagen-strawberriescream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/haagen-vanilla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/haagen-vanillacaramebrownie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/haribo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/magnumsilver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/maxibon-pops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/maxibon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-caramelita.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-coconut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-doublecrememeringue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-espressocroquant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-indiantreasuresvanilla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-kalamansi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-maplewalnut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-masalachai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-passionmango.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-pistachio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-stracciatella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-swisschocolate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpick-vanilladream.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpickEspressoCroquant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/movenpickcaramelita.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/pralinato.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/smarties-cornet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/soleramojito.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/soleramojito_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/soleroexotic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/soleroexotic_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/swissfrmagnumalmond838-292008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/swissfrmagnumclassic838-292009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/swissfrmagnumgold838-292012.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/swissfrmagnumwhite838-292017.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/twister.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/winnetou.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/magnumsilver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/maxibon-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/maxibon-pops-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-caramelita-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-coconut-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-doublecrememeringue-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-espressocroquant-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-indiantreasuresvanilla-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-kalamansi-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-maplewalnut-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-masalachai-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-passionmango-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-pistachio-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-stracciatella-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-swisschocolate-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpick-vanilladream-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpickEspressoCroquant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/movenpickcaramelita.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/pralinato-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/smarties-cornet-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/soleramojito.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/soleroexotic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/swissfrmagnumalmond838-292008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/swissfrmagnumclassic838-292009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/swissfrmagnumgold838-292012.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/swissfrmagnumwhite838-292017.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/twister.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/winnetou-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/TB_Gelato.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/colin_schaffne.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TB_Gelato/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TB_Gelato/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TB_Gelato/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TB_Gelato/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/migrations/0002_auto_20160427_0842.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/migrations/0003_auto_20160427_0849.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/migrations/0004_auto_20160427_0850.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/migrations/0005_auto_20160427_0851.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/migrations/0006_auto_20160427_0857.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0002_auto_20160329_1115.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0003_auto_20160329_1124.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0004_auto_20160329_1127.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0005_congelateur_nombredebac.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0006_auto_20160329_1210.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0007_remove_congelateur_nombredebac.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0008_auto_20160330_0818.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0009_remove_glace_cat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0010_remove_glace_bac.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0011_auto_20160330_0858.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0012_auto_20160330_1029.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0013_glace_image.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0014_categorie_image.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0015_auto_20160408_0913.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0016_auto_20160408_0917.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0017_auto_20160408_0920.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0018_auto_20160413_1052.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0019_auto_20160422_1140.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/0020_auto_20160427_1040.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/css/gelato.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/css/justified_nav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/static/js/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/change_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/change_form_tabbed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/change_lang.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/confirm_create_membership.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/invoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/mail/invoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/register_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/base/resource_usage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/accueil.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/congelateur_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/congelateur_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/discover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/editCongo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/glace_categorie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/glace_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/templates/congelateur/jumbotron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/congelateur/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/brands/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/categories/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/products/kiosk/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transaction/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transaction/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transaction/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transaction/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transaction/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transaction/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transaction/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transaction/views.py" />
+    </list>
+    <ignored path="TB_Gelato.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TB_Gelato" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/models/calcul.py" />
+        <option value="$PROJECT_DIR$/models/admin.py" />
+        <option value="$PROJECT_DIR$/models/models.py" />
+        <option value="$PROJECT_DIR$/compositionCongo/models.py" />
+        <option value="$PROJECT_DIR$/congelateur/apps.py" />
+        <option value="$PROJECT_DIR$/congelateur/templates/test.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/accueil.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/products.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/about.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/editCongo.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congo.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/base.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/Listecongelateurs.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/home.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur_list.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/about.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/products.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/congelateurs.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/discover.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/Detailcongo.html" />
+        <option value="$PROJECT_DIR$/client/urls.py" />
+        <option value="$PROJECT_DIR$/client/views.py" />
+        <option value="$PROJECT_DIR$/client/templates/congelateur/congelateur_list.html" />
+        <option value="$PROJECT_DIR$/client/templates/congelateur/client_list.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/congelateur_list.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/editCongo.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/base/home.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/home.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/categorie_list.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/base.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/dashboard.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/congelateur_detail.html" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/glace_list.html" />
+        <option value="$PROJECT_DIR$/congelateur/urls.py" />
+        <option value="$PROJECT_DIR$/client/templates/client/login.html" />
+        <option value="$PROJECT_DIR$/accounts/views.py" />
+        <option value="$PROJECT_DIR$/TB_Gelato/urls.py" />
+        <option value="$PROJECT_DIR$/congelateur/models.py" />
+        <option value="$PROJECT_DIR$/congelateur/admin.py" />
+        <option value="$PROJECT_DIR$/congelateur/templates/congelateur/glace_categorie.html" />
+        <option value="$PROJECT_DIR$/client/admin.py" />
+        <option value="$PROJECT_DIR$/client/models.py" />
+        <option value="$PROJECT_DIR$/transaction/admin.py" />
+        <option value="$PROJECT_DIR$/transaction/models.py" />
+        <option value="$PROJECT_DIR$/TB_Gelato/settings.py" />
+        <option value="$PROJECT_DIR$/congelateur/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3872" />
+    <option name="height" value="2092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TB_Gelato" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TB_Gelato" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="https---github.com-HEG-Arc-gelato.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\media" />
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato" />
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\congelateur\templates\congelateur" />
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\TB_Gelato\templates" />
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\congelateur\templates\base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\client" />
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\congelateur\templates\congelateur" />
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\TB_Gelato\templates" />
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\congelateur" />
+      <recent name="C:\Users\colin.schaffne\Documents\HEG\TB\TB_Gelato\congelateur\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TB_Gelato" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TB_Gelato" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TB_Gelato" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TB_Gelato" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TB_Gelato" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TB_Gelato" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1473204-9002-4433-8d8d-d995c9f097d4" name="Default" comment="" />
+      <created>1459241890274</created>
+      <option name="number" value="Default" />
+      <updated>1459241890274</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Modifications des models">
+      <created>1459243936617</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1459243936617</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Affichage des produits dans la page HTML !">
+      <created>1459331919189</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1459331919189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Début du 31.03.2016">
+      <created>1459401607771</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1459401607771</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modifications des urls">
+      <created>1459402405674</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1459402405674</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modifications méthodes d'affichage (produits, congélateurs)">
+      <created>1459416809662</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1459416809662</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajout du détail du congo">
+      <created>1459423318781</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1459423318781</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ajout des images (attention à l'enregistrement et à l'affichage...)">
+      <created>1459504647808</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1459504647808</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ajout de l'application client (Modèle créé)">
+      <created>1460192684442</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1460192684442</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ajout possible d'un client (retour le mnemo et non le code venant du copié-collé)">
+      <created>1460194570546</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1460194570546</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Après plusieurs modifs d'urls, retour à quelque chose qui fonctionne">
+      <created>1460196254853</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1460196254853</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ajout des images, vue des catégories">
+      <created>1460556830702</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1460556830702</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Trier par catégorie avec transmission de l'ID">
+      <created>1461318685208</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1461318685208</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ajout du modèle &quot;Demande&quot;">
+      <created>1461741952151</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1461741952151</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Affichage glace par catégorie fonctionnel">
+      <created>1461762293490</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1461762293490</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Ajout modèle transaction">
+      <created>1461848309117</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1461848309117</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13139473" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modifications des models" />
+    <MESSAGE value="Affichage des produits dans la page HTML !" />
+    <MESSAGE value="Début du 31.03.2016" />
+    <MESSAGE value="Modifications des urls" />
+    <MESSAGE value="Modifications méthodes d'affichage (produits, congélateurs)" />
+    <MESSAGE value="Ajout du détail du congo" />
+    <MESSAGE value="Ajout des images (attention à l'enregistrement et à l'affichage...)" />
+    <MESSAGE value="Ajout de l'application client (Modèle créé)" />
+    <MESSAGE value="Ajout possible d'un client (retour le mnemo et non le code venant du copié-collé)" />
+    <MESSAGE value="Après plusieurs modifs d'urls, retour à quelque chose qui fonctionne" />
+    <MESSAGE value="Ajout des images, vue des catégories" />
+    <MESSAGE value="Trier par catégorie avec transmission de l'ID" />
+    <MESSAGE value="Ajout du modèle &quot;Demande&quot;" />
+    <MESSAGE value="Affichage glace par catégorie fonctionnel" />
+    <MESSAGE value="Ajout modèle transaction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout modèle transaction" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/congelateur/migrations/0006_auto_20160329_1210.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/migrations/0007_remove_congelateur_nombredebac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/migrations/0008_auto_20160330_0818.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TB_Gelato/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TB_Gelato/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33314857">
+          <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09146342">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/brands/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/brands/logo-emmi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/brands/logo-lusso.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/brands/logo-frisco.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/brands/logo-ben-jerry.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/brands/logo-movenpick.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/brands/logo-haagen-dazs.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/products/kiosk/haribo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/products/kiosk/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/products/kiosk/maxibon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1662934">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14634146">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.05583438">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/editCongo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/jumbotron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18632372">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/congelateur_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39310345">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/congelateur_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33103448">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/fablab-admin-master/fablab-admin-master/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TB_Gelato/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29672447">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/glace_categorie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56435645">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/glace_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17821783">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/discover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.857143">
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.642857">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34851485">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15049505">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/templates/congelateur/accueil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45742574">
+          <caret line="36" column="92" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/products/classic.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25400898">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/fablab-admin-master/fablab-admin-master/fablabadmin/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TB_Gelato/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48653847">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16923077">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50769234">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transaction/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19038461">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5557692">
+          <caret line="52" column="31" selection-start-line="51" selection-start-column="8" selection-end-line="52" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.88846153">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/congelateur/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08461539">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
